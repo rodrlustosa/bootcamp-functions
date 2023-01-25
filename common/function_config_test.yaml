@@ -1,4 +1,5 @@
 # Configuration file for dev environment. Will apply to all functions, but will be overwritten by
+# correction prod
 # configurations files in specific function folder.
 data_set_id: 4586040729978135
 tenant_id: 16e3985b-ebe8-4e24-9da4-933e21a9fc81
